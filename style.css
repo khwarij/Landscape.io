@@ -13,7 +13,7 @@ body,html{
 	background-image: url(sunset.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	animation: slide 10s infinite;
+	animation: slide 5s infinite;
 }
 .content{
 	position: absolute;
